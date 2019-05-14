@@ -1,0 +1,8 @@
+For this project, we need to create a bert server and client instance. 
+
+Please follow the link below
+https://github.com/llSourcell/bert-as-service
+
+Once the server and client are created, fire up the client with your desired model. 
+
+While the server is up and running, create a bert client object to convert sentences to workds. 
